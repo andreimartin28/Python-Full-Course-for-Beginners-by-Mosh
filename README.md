@@ -1,2 +1,2 @@
 # Python Full Course for Beginners by Mosh
- all the files i've worked in 
+These are all the files I have worked in while making the course, and learning all the stuff it had to offer.
